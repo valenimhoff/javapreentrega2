@@ -1,0 +1,55 @@
+[{
+    "id": 1,
+    "tipo": "sandwich de milanesa",
+    "nombre": "sandwich de milanesa",
+    "precio": 2500,
+    "foto": ""
+}, {
+    "id": 2,
+    "tipo": "hamburgesa",
+    "nombre": "hamburgesa simple",
+    "precio": 1300,
+    "foto": ""
+}, {
+    "id": 3,
+    "tipo": "hamburgesa",
+    "nombre": "hamburgesa doble",
+    "precio": 1000,
+    "foto": ""
+}, {
+    "id": 4,
+    "tipo": "hamburgesa",
+    "nombre": "hamburgesa triple",
+    "precio": 1600,
+    "foto": ""
+}, {
+    "id": 5,
+    "tipo": "chori",
+    "nombre": "chori",
+    "precio": 1100,
+    "foto": ""
+}, {
+    "id": 6,
+    "tipo": "lomo",
+    "nombre": "lomos",
+    "precio": 1800,
+    "foto": ""
+}, {
+    "id": 7,
+    "tipo": "papas",
+    "nombre": "cono de papas",
+    "precio": 800,
+    "foto": ""
+}, {
+    "id": 8,
+    "tipo": "papas",
+    "nombre": "papas con chedar",
+    "precio": 1100,
+    "foto": ""
+}, {
+    "id": 9,
+    "tipo": "papas",
+    "nombre": "papas con beacon y chedar",
+    "precio": 1500,
+    "foto": ""
+} ]
